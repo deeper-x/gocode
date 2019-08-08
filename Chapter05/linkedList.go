@@ -105,3 +105,9 @@ func size(t *Node) int {
 	}
 	return i
 }
+
+
+// OUTPUT:
+// &{0 <nil>}
+// 1 -> -1 -> 10 -> 5 -> 45 -> 100 -> 
+
